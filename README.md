@@ -1,83 +1,34 @@
-<h1 align="center">Nimo Benne 👋</h1>
+# Nimo Benne
 
-<p align="center">
-AI Product Builder • Web Developer • Automation Systems
-</p>
+Former professional athlete. Now building in tech.
 
----
-
-## 🚀 About Me
-
-I build **AI-powered tools, websites, and automation systems** focused on solving real business problems.
-
-Currently working on:
-- 🤖 AI chatbots for service businesses
-- 🌐 Vercel-hosted web applications
-- ⚡ automation systems that save businesses time
-
-I like shipping fast, testing ideas, and turning concepts into working products.
+Based in Toronto. Software engineer starting my career and constantly working on projects to keep learning and getting better.
 
 ---
 
-## 🧠 Current Focus
-- AI booking chatbots
-- SaaS-style web apps
-- Lead generation systems
-- Creator-driven digital products
+## Projects
+
+**[WidgetAI](https://github.com/nimobenne/chatBotWidget)** — AI booking assistant for barbershops. Connects to WhatsApp and Google Calendar to handle bookings 24/7.
+
+**[SkincareApp](https://github.com/nimobenne/skincare)** — Skincare routine tracker. Logs daily skin condition and tracks what products are working.
+
+**[claudeSync](https://github.com/nimobenne/claudeSync)** — Open source template to sync your Claude AI setup across every machine you use.
+
+**[chatBotAI](https://github.com/nimobenne/chatBotAI)** — Browser-based AI customer support chatbot with escalation to human support.
+
+**[Chess Game](https://github.com/nimobenne/chessGame)** — Fully playable chess in the browser. No frameworks, just HTML, CSS and JavaScript.
+
+**[PDF to Audio](https://github.com/nimobenne/pdfToAudio)** — Converts PDF documents to audio using browser Web APIs.
 
 ---
 
-## 🔥 Featured Projects
+## Stack
 
-### 🤖 ChatBot AI
-AI chatbot experiments and automation workflows.
-
-👉 https://github.com/nimobenne/chatBotAI
+Next.js, TypeScript, Python, Supabase, Vercel
 
 ---
 
-### 🌐 Vercel Website
-Modern website deployment & product experiments.
+## Contact
 
-👉 https://github.com/nimobenne/vercelWebsite
-
----
-
-### ⚛️ React Project
-Frontend experimentation and UI development.
-
-👉 https://github.com/nimobenne/reactproject
-
----
-
-## 🛠 Tech Stack
-
-**Frontend**
-- React
-- HTML / CSS
-- JavaScript
-
-**Backend / AI**
-- Python
-- API integrations
-- AI tooling
-
-**Deployment**
-- Vercel
-- GitHub
-
----
-
-## 📈 Goals for 2026
-- Launch AI SaaS products
-- Help local businesses automate bookings
-- Build scalable digital products
-
----
-
-## 📫 Connect
-- Website: https://nimobenne.github.io
-
----
-
-> Building fast. Learning faster.
+nimobenne@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/nimo-benne-a92aa5232/) | [Portfolio](https://nimobenne.github.io)
