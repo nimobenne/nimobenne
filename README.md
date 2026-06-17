@@ -1,34 +1,30 @@
 # Nimo Benne
 
-Former professional athlete. Now building in tech.
-
-Based in Toronto. Software engineer starting my career and constantly working on projects to keep learning and getting better.
+Technical sales specialist in Toronto. CS background, native Dutch and German. Builds AI-assisted workflows and side projects.
 
 ---
 
 ## Projects
 
-**[WidgetAI](https://github.com/nimobenne/chatBotWidget)** — AI booking assistant for barbershops. Connects to WhatsApp and Google Calendar to handle bookings 24/7.
+**[Swipefy](https://swipefy-psi.vercel.app)**: Social playlist competition platform. Daily music game with leaderboard, nominations, and admin dashboard. Live.
 
-**[SkincareApp](https://github.com/nimobenne/skincare)** — Skincare routine tracker. Logs daily skin condition and tracks what products are working.
+**[claudeSync](https://github.com/nimobenne/claudeSync)**: Open source template to sync your AI development setup across every machine you use.
 
-**[claudeSync](https://github.com/nimobenne/claudeSync)** — Open source template to sync your Claude AI setup across every machine you use.
+**[WidgetAI](https://github.com/nimobenne/chatBotWidget)**: AI booking assistant for barbershops. Connects to WhatsApp and Google Calendar to handle bookings 24/7.
 
-**[chatBotAI](https://github.com/nimobenne/chatBotAI)** — Browser-based AI customer support chatbot with escalation to human support.
+**[VolleyMaps](https://github.com/nimobenne/volleymaps)**: Volleyball pickup game finder with interactive map and live game feed.
 
-**[Chess Game](https://github.com/nimobenne/chessGame)** — Fully playable chess in the browser. No frameworks, just HTML, CSS and JavaScript.
-
-**[PDF to Audio](https://github.com/nimobenne/pdfToAudio)** — Converts PDF documents to audio using browser Web APIs.
+**[chatBotAI](https://github.com/nimobenne/chatBotAI)**: Browser-based AI customer support chatbot with human escalation and conversation history.
 
 ---
 
 ## Stack
 
-Next.js, TypeScript, Python, Supabase, Vercel
+Next.js · TypeScript · Python · Supabase · Vercel
 
 ---
 
 ## Contact
 
-nimobenne@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/nimo-benne-a92aa5232/) | [Portfolio](https://nimobenne.github.io)
+nimobenne@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nimobenne) | [Portfolio](https://nimobenne.github.io)
