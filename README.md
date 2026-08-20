@@ -18,7 +18,7 @@ Technical sales specialist in Toronto. CS background, native Dutch and German. B
 
 ## Stack
 
-Next.js · TypeScript · Python · Supabase · Vercel
+Next.js · TypeScript · Python · LangGraph · Claude API · Supabase · Vercel
 
 ---
 
